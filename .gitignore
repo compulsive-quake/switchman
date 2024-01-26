@@ -51,6 +51,11 @@ web_modules/
 # Optional npm cache directory
 .npm
 
+# webstorm
+.idea
+
+nx
+
 # Optional eslint cache
 .eslintcache
 
